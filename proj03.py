@@ -1768,7 +1768,7 @@ while choice != 'QUIT':
 
     elif choice == 'QUIT':
         print("\nThanks for playing. See you later.\n")
-        print (" ** Created by : Jenniffer Kwiatkowski and Pedro Canchari Palomino. **")
+        print (" ** Created by : Pedro Canchari Palomino. **")
         print (" ** November 2016 **\n")
     else:
         print("\nI don't understand that choice, please try again.\n")
